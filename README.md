@@ -19,4 +19,5 @@ The base runs off a stepper motor with stacked pieces of cardboard elevated on t
 
 # Demos
 [Link to video demos](https://drive.google.com/drive/u/0/folders/1-3JdqukMYLsSpSDD1vsmEbRFhX1BaGcX)
+
 Demos include pre-programmed shapes (e.g. line, circles, spirals) and shapes that can be modified using the different sensors attached. To pick which action is selected, there is a "control panel" of buttons on the breadboard which is used to connect the different components of the robot.
