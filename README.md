@@ -2,7 +2,7 @@
 Robot built with Arduino which can draw various shapes on a rotating base. Frame and additional components (e.g. base) are all handmade from wood, cardboard, and duct tape. Made for TER4M1 summative assignment.
 
 # How It Functions
-The robot has a linear x-axis which holds the writing device (i.e. Sharpie) which draws onto a rotating base with a sheet of paper on top, like a polar plotting machine. The rotating base is very accurate, however due to the nature of the parts, the linear axis is not completely accurate.
+The robot has a linear x-axis which holds the writing device (i.e. a black Sharpie) which draws onto a rotating base with a sheet of paper on top, like a polar plotting machine. The rotating base is very accurate, however due to the nature of the parts, the linear axis is not completely accurate.
 
 ## Linear Axis
 The linear axis is a long piece of wood that is rotated on one end by a stepper motor, but because of the quality of the wood and the setup, one direction takes less force than the other and this cannot be easily corrected with the materials. The writing utensil is lifted up and down using a servo motor.
